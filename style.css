@@ -1,0 +1,28 @@
+.head{
+color: #0D1B2A;
+font-size: 3em;
+margin-bottom: 10px;
+}
+
+body{
+  background: #F4F6F8;
+  margin: 15px;
+}
+
+p{color: #3D3D3D;
+font-size: 1.1em;
+}
+
+h2{color: #1B263B;
+font-size:1.8em;
+margin-bottom: 20px;
+}
+
+ul{color: #3D3D3D;
+}
+
+h3{color: #5C677D;
+font-size: 1.4em;
+margin-top: 30px;
+margin-bottom: 10px;
+}
